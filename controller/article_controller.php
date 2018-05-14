@@ -1,8 +1,59 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+class Article_controller{
+    
+     //add variables and construct
+    
+    
+    
+    
+    function publish_article(){
+       
+        //admin
+        
+    }
+    
+    function update_article(){
+       
+        //admin
+    }
+    
+    
+    
+    function add_to_favourites(){
+        
+        
+        
+        
+    }
+    
+    
+    function show_favourites(){
+       
+        
+    }
+    
+    
+    function show_categories(){
+       
+    }
+    
+    function all_by_category(){
+       
+        
+    }
+    
+  
+    
+    function search_title(){
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+}
